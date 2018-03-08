@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fe6315fd01112f5bc1a072cceae522d5604e4a87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\1b653653519cb474d20f1fa375298a6ee31cae0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5be69f168f29b550f8bb70c2219247e8f17f5137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_001a7c4e7fb382dfc6771a75228c0844191f992a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.6.15\d344a14d2b0ae2e98f4fbcb107b7a6b217824197\aws-android-sdk-core-2.6.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d344a14d2b0ae2e98f4fbcb107b7a6b217824197">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.6.15_301c0a25fdd4d6e06b344d6bed6d5ab3b3f8ab81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\98382155d044acbc49ca77b6fed1ad9edb485042\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_411772b0da4ec27f200eca8a9b4a46a1670571f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-kms\2.6.15\314861631a4154f51ea03bc33a6d41ec87c6af76\aws-android-sdk-kms-2.6.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="314861631a4154f51ea03bc33a6d41ec87c6af76">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-kms-2.6.15_496199e1feecf6c8e6a87492fcfdf455c8f08e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\d11b306912a57fbfe5d6f853ab043722d2abe965\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_83f15574e92b268d7e3dc9cfd72860d1862880e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\fb6b402ae2cb064a8ce4ea6a59714bc625c6d4a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2906fa6da35d8551eebc6545b1a92a87c686efcf">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c35045c64fcde253825f572181166975f70ec62b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\eb215346882e2aeee11f0be1a835f056914704e4\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_674dd62070bce50333cc09a0f20f585f63e0d3a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\1b653653519cb474d20f1fa375298a6ee31cae0e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_22c3ffd7701d3f1e9f55da2db6990a768b89d626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\c0225d9e93e44872b555b4bd4f6dec18bec85cb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_817283206ad35088271049275caec44174040bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-pinpoint\2.6.15\efe62cb09cd70485692239309abef28a9e694376\aws-android-sdk-pinpoint-2.6.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efe62cb09cd70485692239309abef28a9e694376">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-pinpoint-2.6.15_08f8db6158d95868aa31b65473813e23ebf47df8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.6.15\648f465edd04514bdad4374c59e4e58aed93af67\aws-android-sdk-s3-2.6.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="648f465edd04514bdad4374c59e4e58aed93af67">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.6.15_f1eeb9baa44deaca5f2c8f54f01cee7d6e68d1bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\821a1a117cd709cd6adf69150dfd8898263b1ac9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d58847fbe9b06a90340f287e5c4865cff2ce092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\d11b306912a57fbfe5d6f853ab043722d2abe965\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f239176a2f0f06b9c3fa6c8ece0419e565c47630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2e896ff6ce2986ff110e6827a86d2c648a79a1b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\495bf5e2874172e523e727a1396cdfa466050944\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3c7e195d5f8cc0c43797a318692a5b9772c26fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\2d609f2b7f335bfec94c294bbe74a40cacfeae59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5816bd8cd533a2e5db9b61ab4b73f822bfc4ab2">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79ad08aadcab38c371c2a0dc9f9ce8b8c77d8997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\a9b9598c5bcb4d6ba2734e1414ab5b028c634134\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_57c4ae12e0a186c279776b55b640644d6148ffdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.6.15\e263dab7d0a641de3a523f27f0d2f88b6198b9d7\aws-android-sdk-ddb-mapper-2.6.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e263dab7d0a641de3a523f27f0d2f88b6198b9d7">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.6.15_bab3de44cb289f0721161e51ee6e64b9d6616f47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-apigateway-core\2.6.15\f96d5eab7b1404dd981401b7e3f596e38074adde\aws-android-sdk-apigateway-core-2.6.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f96d5eab7b1404dd981401b7e3f596e38074adde">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-apigateway-core-2.6.15_cec6b34638f4d932244d7a08a9ed47fad57e4a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\a9b9598c5bcb4d6ba2734e1414ab5b028c634134\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09bce09ad83a695ceb3983b90e8187f476ed662a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\279d2b7751962084e87e16122dc0c84aadd0e497\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31aaa6eed67308f189e6df57037334b622306c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01bd278834947bb0863c2e19f1aa0b8bb486f64f">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b52ed79efa1967ed8b636283e5634ec4acb89173\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\98382155d044acbc49ca77b6fed1ad9edb485042\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_64587b1209fba75180c8600ed2c94ba79c7b4802\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\11ff190bfec8750d6d4734e43b412030ffb5ad32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55bc9d6fb0226fa70679b94f87848f0819eb728d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\5de777cd160222df517660c04b6f56cb01b70d87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79db3e48496ed98b451b2afba8735b91330641dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\d987d7ad5189f636f099a58e14c002b60cc3c787\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75f5ea6df5f8e0c239a5d5720f3bdf4c0d15fdab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\5c56ae5d892db4661a342373360012277238be88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53d6977c03d05a9ae208b700ff8b81792c2f0a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_970515f62cd06747626b896432978557ed811490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.android\build-cache\eb215346882e2aeee11f0be1a835f056914704e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7be5dee30f9bc1ff16f745cfbd687a9959914473\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\skatakam\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.6.15\9cb4af48e34f7a91d0767d9faee478baea052246\aws-android-sdk-ddb-2.6.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cb4af48e34f7a91d0767d9faee478baea052246">
+        <dex dex="C:\Users\skatakam\Downloads\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.6.15_bd61b3354348af8b28dfa7b911117927286f99b2\classes.dex" />
+    </item>
+
+</items>

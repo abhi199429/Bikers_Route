@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/relative">
+
+    <EditText
+        android:id="@+id/Route_EditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--<TableLayout
+        android:layout_width="450dp"
+        android:layout_height="450dp"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_width="match_parent"
+        android:id="@+id/tableScreen2"
+        android:layout_above="@+id/New_Route"
+        android:layout_alignParentStart="true">
+
+        <TableRow
+            android:id="@+id/row1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+            <TextView
+                android:id="@+id/Route_Name"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_column="1"
+                android:text="@string/Route_Name"/>
+
+            <TextView
+                android:id="@+id/Start_Latitude"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_column="2"
+                android:text="@string/Start_Latitude"/>
+
+            <TextView
+                android:id="@+id/End_Latitude"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_column="3"
+                android:text="@string/End_Latitude"/>
+
+            <TextView
+                android:id="@+id/Start_Longitude"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_column="4"
+                android:text="@string/Start_Longitude"/>
+
+            <TextView
+                android:id="@+id/End_Longitude"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_column="5"
+                android:text="@string/End_Longitude"/>
+
+            <TextView
+                android:id="@+id/Used"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_column="6"
+                android:text="@string/Used"/>
+
+        </TableRow>
+
+
+    <TableRow
+        android:id="@+id/row2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@+id/row1">
+
+        </TableRow>
+    </TableLayout>-->
+    <Button
+        android:id="@+id/New_Route"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/New_Route"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="427dp"
+        android:layout_marginStart="140dp"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

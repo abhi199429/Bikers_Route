@@ -1,0 +1,206 @@
+<resources>
+
+    <!-- CUSTOMIZE THESE FOR YOUR APP -->
+    <!--<string name="Login_text">Login(emailaddress)</string>
+    <string name="password_text">Password</string>
+    <string name="Firstname_text">Firstname </string>
+    <string name="Lastname_text">Lastname</string>
+    <string name="Enter_button">Enter</string>-->
+    <string name="Route_Name">Route Name</string>
+    <string name="Start_Latitude">Start Latitude</string>
+    <string name="End_Latitude">End Latitude</string>
+    <string name="Start_Longitude">Start Longitude</string>
+    <string name="End_Longitude">End Longitude</string>
+    <string name="Used">Used</string>
+    <string name="New_Route">New Route</string>
+    <string name="RouteName_text">RouteName</string>
+    <string name="StartLatitude_text">StartLatitude</string>
+    <string name="EndLatitude_text">EndLatitude</string>
+    <string name="StartLongitude_text">StartLongitude</string>
+    <string name="EndLongitude_text">EndLongitude</string>
+    <string name="Ok">Ok</string>
+    <string name="error_dismiss">Error Dismiss</string>
+    <string name="email">EmailAddress</string>
+    <string name="email_login_form">LoginForm</string>
+    <string name="enter_button">Enter</string>
+
+
+    <string name="app_name">My Sample App</string>
+
+
+    <!-- REQUIRED FOR GENERAL APP FUNCTIONALITY - YOU MAY WANT TO KEEP THESE -->
+
+    <string name="main_nav_menu_item_home">Home</string>
+    <string name="title_activity_item_detail">Item Detail</string>
+    <string name="title_activity_item_list">Item List</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="button_text_sign_in">SIGN IN</string>
+    <string name="button_text_sign_out">SIGN OUT</string>
+
+
+    <!-- USED BY DEMO FEATURES ONLY - YOU CAN DISCARD THESE WITH THE DEMO FOLDER -->
+
+    <string name="fragment_demo_instruction_overview_header">Overview</string>
+    <string name="fragment_demo_instruction_description_header">Sample App Features</string>
+    <string name="feature_sign_in_title">User Sign-in</string>
+    <string name="feature_sign_in_subtitle">Let your users sign in with public identity providers or your own identity system.</string>
+    <string name="feature_sign_in_overview">Whether your users sign in or not, the User sign-in feature configures Amazon Cognito to uniquely identify the user and provide your app the appropriate credentials to access your AWS resources.</string>
+    <string name="feature_sign_in_description">The Sample App demonstrates assignment of a unique identifier for the user, the Amazon Cognito User ID. If optional or mandatory User Sign-in has been enabled in your project, then the Sample App also includes a sign-in screen, with a button for each configured sign-in provider.</string>
+    <string name="feature_sign_in_powered_by">Powered by Amazon Cognito</string>
+    <string name="feature_sign_in_demo_button">Demo User Identity</string>
+    <string name="feature_user_engagement_title">User Engagement</string>
+    <string name="feature_user_engagement_subtitle">Collect app usage information and analyze key metrics.</string>
+    <string name="feature_user_engagement_overview">Amazon Mobile Analytics allows you to collect, visualize, and export app event data. You can track app usage and monetization in the Amazon Mobile Analytics console, or run custom analysis by automatically exporting app events to Amazon S3 and Amazon Redshift.</string>
+    <string name="feature_user_engagement_powered_by">Powered by Amazon Mobile Analytics and Amazon Pinpoint</string>
+    <string name="feature_user_engaement_demo_button">Demo User Engagement</string>
+    <string name="pinpoint_winter_switch_text">Winter</string>
+    <string name="pinpoint_spring_switch_text">Spring</string>
+    <string name="pinpoint_summer_switch_text">Summer</string>
+    <string name="pinpoint_fall_switch_text">Fall</string>
+    <string name="feature_cloud_logic_apis_title">Cloud Logic</string>
+    <string name="feature_cloud_logic_apis_subtitle">Run business logic in the cloud without managing servers. Integrate functionality with your app using APIs.</string>
+    <string name="feature_cloud_logic_apis_overview">Run business logic in the cloud without managing servers. Integrate functionality with your app using APIs.</string>
+    <string name="feature_cloud_logic_apis_description">The Sample App demonstrates the ability of a mobile app to invoke a REST API in Amazon API Gateway. Select the HTTP method, API endpoint, and resource path. Edit the body of the request. Invoke the API and see results.</string>
+    <string name="feature_cloud_logic_apis_powered_by">Powered by Amazon API Gateway and AWS Lambda</string>
+    <string name="feature_cloud_logic_apis_demo_button">Demo Cloud Logic APIs</string>
+    <string name="feature_cloud_logic_api_chooser_heading">Pick an API you want to demo</string>
+    <string name="feature_cloud_logic_apis_path_chooser_heading">Path</string>
+    <string name="cloud_logic_apis_endpoint">API Endpoint</string>
+    <string name="cloud_logic_apis_path">Path</string>
+    <string name="cloud_logic_apis_method">Method</string>
+    <string name="cloud_logic_apis_querystring">Query String Parameters</string>
+    <string name="cloud_logic_apis_requestbody">Request Body</string>
+    <string name="cloud_logic_apis_responsebody">Response</string>
+    <string name="cloud_logic_apis_invoke">Invoke</string>
+    <string name="cloud_logic_apis_invoker_status_label">Status :</string>
+    <string name="cloud_logic_apis_invoker_latency_label">Latency :</string>
+    <string name="cloud_logic_apis_reset">Reset</string>
+
+    <string name="main_fragment_title_user_identity">User Identity</string>
+    <string name="main_fragment_subtitle_user_identity">Keep track of users</string>
+    <string name="identity_demo_text_view_description">Displays the user identity.</string>
+    <string name="unknown_user">Guest User</string>
+    <string name="user_id">USER IDENTIFIER</string>
+    <string name="identity_demo_textview_username_description">User\'s name</string>
+    <string name="identity_demo_textview_userid_description">User\'s unique identifier</string>
+    <string name="identity_demo_unknown_identity_text">&lt;UNKNOWN IDENTITY&gt;</string>
+    <string name="identity_demo_dialog_dismiss_text">DISMISS</string>
+    <string name="identity_demo_error_dialog_title">Failed Identity Retrieval</string>
+    <string name="identity_demo_error_message_failed_get_identity">Could not retrieve the user identity:\u0020</string>
+    <string name="main_fragment_title_app_analytics">App Analytics</string>
+    <string name="main_fragment_subtitle_app_analytics">Understand customer usage</string>
+    <string name="feature_app_analytics_demo_button">Demo App Analytics</string>
+    <string name="app_analytics_long_description">Note that events are batch processed and may take up to 60 minutes to display in the console.</string>
+    <string name="generate_custom_event">Generate Custom Event</string>
+    <string name="generate_monetization_event">Generate Monetization Event</string>
+    <string name="main_fragment_title_cloud_logic">Cloud Logic</string>
+    <string name="feature_nosql_database_title">NoSQL Database</string>
+    <string name="feature_nosql_database_subtitle">Store data in the cloud.</string>
+    <string name="feature_nosql_database_overview">Store data in the cloud.</string>
+    <string name="feature_nosql_database_description">The Sample App demonstrates how to access your configured Amazon DynamoDB NoSQL database tables. Select your table, insert sample data, and perform queries by choosing from a list of examples. Hold down an item in query results to update or delete the item. When you\'re done with the demo, you can remove the sample data from your table.</string>
+    <string name="feature_nosql_database_powered_by">Powered by Amazon DynamoDB</string>
+
+    <string name="main_fragment_title_nosql_database">NoSQL Database</string>
+    <string name="feature_nosql_database_demo_button">Demo NoSQL Database</string>
+
+    <string name="main_fragment_title_nosql_select_operation">NoSQL Demo: %s</string>
+    <string name="main_fragment_title_nosql_select_table">NoSQL Demo: Select Table</string>
+
+    <string name="nosql_select_table_item_partition_key_text">Partition Key</string>
+    <string name="nosql_select_table_item_sort_key_text">Sort Key</string>
+    <string name="nosql_select_table_index_count_text">Indexes</string>
+
+    <string name="nosql_dialog_title_failed_dynamodb_describe_table_text">Failed retrieving schema for table \'%s\'.</string>
+    <string name="nosql_dialog_title_failed_operation_text">Operation Failed</string>
+    <string name="nosql_dialog_title_failed_loading_more_results">Failed Loading More Results</string>
+    <string name="nosql_dialog_title_failed_update_item_text">Update Item Failed</string>
+    <string name="nosql_dialog_title_failed_delete_item_text">Delete Item Failed</string>
+
+    <string name="nosql_database_table_item_creation_date_text">Created %s</string>
+    <string name="nosql_insert_sample_data_button_text">INSERT SAMPLE DATA</string>
+    <string name="nosql_remove_sample_data_button_text">REMOVE SAMPLE DATA</string>
+
+    <string name="nosql_dialog_title_remove_confirmation">Confirm Removal of Sample Items</string>
+    <string name="nosql_dialog_message_remove_confirmation">This will remove all your sample items.  Are you sure?</string>
+
+    <string name="nosql_dialog_title_added_sample_data_text">Added Sample Data</string>
+    <string name="nosql_dialog_message_added_sample_data_text">20 Sample Items with random data were added to your table.</string>
+    <string name="nosql_dialog_title_removed_sample_data_text">Removed Sample Data</string>
+    <string name="nosql_dialog_message_removed_sample_data_text">All Sample Items have been removed from your table.</string>
+    <string name="nosql_dialog_ok_text">OK</string>
+
+    <!-- NoSQL Demo Operations Headers -->
+    <string name="nosql_operation_header_get">Get</string>
+    <string name="nosql_operation_header_primary_queries">Primary Index Queries</string>
+    <string name="nosql_operation_header_secondary_queries">Secondary Index Queries (%s)</string>
+    string>
+    <string name="nosql_operation_header_scan">Scan</string>string>
+    <!-- NoSQL Demo Get Operations -->
+    <string name="nosql_operation_get_by_partition_text">Get Item</string>
+    <string name="nosql_operation_example_get_by_partition_text">Find Item with %1$s = \'%2$s\'.</string>
+
+    <string name="nosql_operation_get_by_partition_and_sort_text">Get Item</string>
+    <string name="nosql_operation_example_get_by_partition_and_sort_text">Find Item with %1$s = \'%2$s\' and %3$s = \'%4$s\'.</string>
+
+    <!-- NoSQL Demo Query Operations -->
+    <string name="nosql_operation_title_query_by_partition_and_sort_condition_text">Query by Partition Key and Sort Condition</string>
+    <string name="nosql_operation_example_query_by_partition_and_sort_condition_text">Find all items with %1$s = \'%2$s\' and %3$s &lt; \'%4$s\'.</string>
+
+    <string name="nosql_operation_title_query_by_partition_text">Query by Partition Key</string>
+    <string name="nosql_operation_example_query_by_partition_text">Find all items with %1$s = \'%2$s\'.</string>
+
+    <string name="nosql_operation_title_query_by_partition_and_filter_text">Query by Partition Key and Filter</string>
+    <string name="nosql_operation_example_query_by_partition_and_filter_text">Find all items with %1$s = \'%2$s\' and %3$s &gt; \'%4$s\'.</string>
+
+    <string name="nosql_operation_title_query_by_partition_sort_condition_and_filter_text">Query by Partition Key, Sort Condition, and Filter</string>
+    <string name="nosql_operation_example_query_by_partition_sort_condition_and_filter_text">Find all items with %1$s = \'%2$s\', %3$s &lt; \'%4$s\', and %5$s &gt; \'%6$s\'.</string>
+
+    <string name="nosql_operation_title_index_query_by_partition_and_sort_condition_text">Query by Partition Key and Sort Condition</string>
+    <string name="nosql_operation_example_index_query_by_partition_and_sort_condition_text">Find all items with %1$s = \'%2$s\' and %3$s &gt; \'%4$s\'.</string>
+
+    <string name="nosql_operation_title_index_query_by_partition_text">Query by Partition Key</string>
+    <string name="nosql_operation_example_index_query_by_partition_text">Find all items with %1$s = \'%2$s\'.</string>
+
+    <string name="nosql_operation_title_index_query_by_partition_and_filter_text">Query by Partition Key and Filter</string>
+    <string name="nosql_operation_example_index_query_by_partition_and_filter_text">Find all items with %1$s = \'%2$s\' and %3$s &gt; \'%4$s\'.</string>
+
+    <string name="nosql_operation_title_index_query_by_partition_sort_condition_and_filter_text">Query by Partition Key, Sort Condition, and Filter</string>
+    <string name="nosql_operation_example_index_query_by_partition_sort_condition_and_filter_text">Find all items with %1$s = \'%2$s\', %3$s &lt; \'%4$s\', and %5$s &gt; \'%6$s\'.</string>
+
+    <string name="nosql_operation_title_scan_with_filter">Scan with Filter</string>
+    <string name="nosql_operation_example_scan_with_filter">Find all items with \'%1$s\' &gt; \'%2$s\'.</string>
+    <string name="nosql_operation_example_scan_with_filter_on_partition_and_sort">Find all items with \'%1$s\' beginning with \'%2$s\' and \'%3$s\' beginning with \'%4$s\'.</string>
+    <string name="nosql_operation_example_scan_with_filter_on_partition">Find all items with \'%1$s\' beginning with \'%2$s\'</string>
+
+    <string name="nosql_operation_title_scan_without_filter">Scan</string>
+    <string name="nosql_operation_example_scan_without_filter">Show all items in the table.</string>
+
+    <string name="nosql_dialog_title_pending_results_text">Please wait&#8230;</string>
+    <string name="nosql_dialog_message_pending_results_text">Waiting for the response to load the results.</string>
+
+    <string name="nosql_dialog_title_scan_warning_text">WARNING: Scan is Expensive</string>
+    <string name="nosql_dialog_message_scan_warning_text">This operation scans the entire table and should not generally be used in a production app.</string>
+
+    <string name="nosql_dialog_title_no_results_text">No Matching Items Found</string>
+    <string name="nosql_dialog_message_no_results_text">No items match your criteria. Insert more sample data and try again.</string>
+
+    <string name="nosql_context_menu_title_for_results_text">Update or Delete Item</string>
+    <string name="nosql_context_menu_entry_update_item_text">Update Item</string>
+    <string name="nosql_context_menu_entry_delete_item_text">Delete Item</string>
+    <string name="nosql_dialog_title_confirm_update_item_text">Confirm Update</string>
+    <string name="nosql_dialog_message_confirm_update_item_text">Are you sure you want to update the selected item?</string>
+    <string name="nosql_dialog_title_confirm_delete_item_text">Confirm Delete</string>
+    <string name="nosql_dialog_message_confirm_delete_item_text">Are you sure you want to delete the selected item?</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="error_field_required">Invalid Email</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="error_incorrect_password">Incorrect password</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_sign_in_short">action sign in short</string>
+    <string name="password">password</string>
+    <string name="title_activity_sample_1">Sample_Activity1</string>
+    <string name="title_activity_main_login">MainLogin</string>
+    <string name="title_activity_main_go">MainGoActivity</string>
+
+
+</resources>

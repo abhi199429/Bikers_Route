@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="400dp"
+    >
+
+    <TableLayout
+        android:layout_width="300dp"
+        android:layout_height="150dp">
+        <!--android:layout_alignParentStart="true"-->
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/RouteName_text"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:text="@string/RouteName_text"/>
+
+            <EditText
+                android:id="@+id/Name"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignRight="@+id/RouteName_text"
+                android:ems="10"
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/StartLatitude_text"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:text="@string/StartLatitude_text"/>
+
+            <EditText
+                android:id="@+id/StartLatitude"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignRight="@+id/StartLatitude_text"
+                android:ems="10"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/EndLatitude_text"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:text="@string/EndLatitude_text"/>
+
+            <EditText
+                android:id="@+id/EndLatitude"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignRight="@+id/EndLatitude_text"
+                android:ems="10"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/StartLongitude_text"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:text="@string/StartLongitude_text"/>
+
+            <EditText
+                android:id="@+id/StartLongitude"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignRight="@+id/StartLongitude_text"
+                android:ems="10"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/EndLongitude_text"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:text="@string/EndLongitude_text"/>
+
+            <EditText
+                android:id="@+id/EndLongitude"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignRight="@+id/EndLongitude_text"
+                android:ems="10"
+                />
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Ok"
+        android:text="@string/Ok"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>
+
+    <!--
+    </LinearLayout>-->

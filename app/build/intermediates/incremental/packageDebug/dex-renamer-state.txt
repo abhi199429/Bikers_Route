@@ -1,0 +1,7 @@
+#Mon Feb 19 19:40:59 PST 2018
+base.0=C\:\\Users\\skatakam\\Downloads\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b52ed79efa1967ed8b636283e5634ec4acb89173
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\skatakam\\Downloads\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fe6315fd01112f5bc1a072cceae522d5604e4a87\\classes.dex
+base.1=C\:\\Users\\skatakam\\Downloads\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fe6315fd01112f5bc1a072cceae522d5604e4a87
+file.0=C\:\\Users\\skatakam\\Downloads\\MySampleApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b52ed79efa1967ed8b636283e5634ec4acb89173\\classes.dex

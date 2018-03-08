@@ -1,0 +1,72 @@
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\485f7fdcc0714b21cc61d4c1a8a33a1f\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\413ef39abc1661c2d2a08cb2bff26ad1\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\a7ca461fbd5f08c2a3c85802bd67831c\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.6.16\9c403e0600f7bf4892ac921ccd65601a4eac468d\aws-android-sdk-ddb-mapper-2.6.16.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.6.16\d0d2298d98c6c9c59a3def4f6d3e483b0c5effa2\aws-android-sdk-ddb-2.6.16.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-pinpoint\2.6.16\c8617e0f879c81d751d92dcc326aa1265402f91f\aws-android-sdk-pinpoint-2.6.16.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-apigateway-core\2.6.16\444e2a6d9af9a0e341be016f7b3a11eef8c1cb65\aws-android-sdk-apigateway-core-2.6.16.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.6.16\25181e3ea44a548f4428a4422c91a8c0f1a2c7ee\aws-android-sdk-s3-2.6.16.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-kms\2.6.16\62cac0832c8466945032890ebeddae090ff73329\aws-android-sdk-kms-2.6.16.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.6.7.aar\25b44dd02af57ece7563776987dd5c9d\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.16.aar\705a0d554bd83dcfba7c48939ca29546\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.6.16\4c8f3a80fbfdfc233a2402a6572db666363e0834\aws-android-sdk-core-2.6.16.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\c49b4b02c2242508add29ebdd86ae028\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\364b30d39b2025c333636a653dc97df8\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\7baab1a3899e54bf7f18377fae89aba8\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\eaad1193f4d947911cec9b360b7acfd2\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\7430052da54cb15802d49f0f8f475748\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\0c2f8dd19a5fa3b8f91b2c7b694acf97\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\0c2f8dd19a5fa3b8f91b2c7b694acf97\jars\libs\internal_impl-24.2.1.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\0c445084397c6b1076ff07b90290b8bc\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\0c445084397c6b1076ff07b90290b8bc\jars\libs\internal_impl-24.2.1.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\98a5acf0fbec8dd69ad37f0a04d211dc\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\98a5acf0fbec8dd69ad37f0a04d211dc\jars\libs\internal_impl-24.2.1.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\8957b11ca0a3ace056b6fd65b61c9992\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\8957b11ca0a3ace056b6fd65b61c9992\jars\libs\internal_impl-24.2.1.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\277a1ab1d00a70e2c7c230e9d42a96d1\jars\classes.jar'(**.class)
+-injars 'C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\277a1ab1d00a70e2c7c230e9d42a96d1\jars\libs\internal_impl-24.2.1.jar'(**.class)
+-injars 'C:\Users\Abhishek\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar'(**.class)
+-injars 'C:\Users\Abhishek\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar'(**.class)
+-injars 'C:\Users\Abhishek\Downloads\Biker's_Route\app\build\intermediates\classes\debug'(**.class)
+-outjars 'C:\Users\Abhishek\Downloads\Biker's_Route\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Abhishek\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\Abhishek\Downloads\Biker's_Route\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at C:\Users\Abhishek\Downloads\Biker's_Route\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:31
+-keep class com.mysampleapp.Application {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

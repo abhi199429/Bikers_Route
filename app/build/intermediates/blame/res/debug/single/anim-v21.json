@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\skatakam\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\skatakam\\.android\\build-cache\\c0225d9e93e44872b555b4bd4f6dec18bec85cb1\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\skatakam\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\skatakam\\.android\\build-cache\\c0225d9e93e44872b555b4bd4f6dec18bec85cb1\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\skatakam\\Downloads\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\skatakam\\.android\\build-cache\\c0225d9e93e44872b555b4bd4f6dec18bec85cb1\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    }
+]

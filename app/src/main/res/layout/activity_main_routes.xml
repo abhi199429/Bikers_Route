@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mysampleapp.MainRoutesActivity">
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="122dp"
+        android:layout_height="64dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="8dp"
+        android:text="Routes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        app:layout_constraintLeft_toRightOf="@+id/editTextRoutesDump"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.057"
+         />
+
+    <EditText
+        android:id="@+id/editTextRoutesDump"
+        android:layout_width="134dp"
+        android:layout_height="628dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Routes To Appear Here"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_editor_absoluteY="-126dp" />
+
+    <ListView
+        android:layout_width="189dp"
+        android:layout_height="406dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintLeft_toRightOf="@+id/label"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextRoutesDump"
+        tools:layout_editor_absoluteY="173dp"
+        tools:layout_editor_absoluteX="136dp"
+        android:id="@+id/listView" />
+
+    <Button
+        android:id="@+id/newroute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NewRoutes"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintLeft_toRightOf="@+id/editTextRoutesDump"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/listView"
+        app:layout_constraintHorizontal_bias="0.951"
+        app:layout_constraintVertical_bias="0.017" />
+
+
+
+</android.support.constraint.ConstraintLayout>
